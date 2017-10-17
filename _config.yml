@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "Hanxiang Hao"
-  avatar           : 
+  avatar           : "disabled"
   bio              : "Interested in computer vision, deep leanring and electronics music"
-  location         : "Atlanta"
+  location         : "Atlanta, GA"
   employer         :
   googlescholar    : 
-  email            :
+  email            : "haohanx323@outlook.com"
   uri              :
   bitbucket        :
   codepen          :
