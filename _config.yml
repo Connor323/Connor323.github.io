@@ -79,6 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Hanxiang Hao"
+  avatar           : "disabled"
   bio              : "Interested in computer vision, deep leanring and electronics music"
   location         : "Atlanta, GA"
   employer         :
@@ -99,7 +100,7 @@ author:
   linkedin         : "https://www.linkedin.com/in/hanxiang-hao/"
   orcid            : 
   pinterest        :
-  soundcloud       : "https://soundcloud.com/user-313561083"
+  soundcloud       : "https://soundcloud.com/connor0323"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
