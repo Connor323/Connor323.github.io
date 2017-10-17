@@ -54,7 +54,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:                   "disabled"
+twitter:
   username               : &twitter
 facebook:
   username               :
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Hanxiang Hao"
+  avatar           : 
+  bio              : "Interested in computer vision, deep leanring and electronics music"
+  location         : "Atlanta"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Connor323"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/hanxiang-hao/"
+  orcid            : "disabled"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "https://soundcloud.com/user-313561083"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
