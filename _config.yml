@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hanxiang's Blogs"
+title                    : "Hanxiang's GitHub"
 title_separator          : "-"
 name                     : &name "Hanxiang Hao"
 description              : &description "personal description"
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Hanxiang Hao"
-  avatar           : "disabled"
+  avatar           : 
   bio              : "Interested in computer vision, deep leanring and electronics music"
   location         : "Atlanta, GA"
   employer         :
@@ -90,7 +90,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : "Connor323"
   google_plus      :
