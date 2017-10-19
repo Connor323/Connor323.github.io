@@ -7,4 +7,4 @@ date: 2017-10-18
 
 ---
 
-This is my first post in in my [Github Pages](https://pages.github.com) and afterwards, I will post and share more articles and blogs to the people with the same interests! Best of luck! 
+This is my first post in in my [**Github Pages**](https://pages.github.com) and afterwards, I will post and share more articles and blogs to the people with the same interests! Best of luck! 
