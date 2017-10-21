@@ -40,6 +40,7 @@ Skills
   * CUDA
   * OpenCV
   * ITK
+  * ROS
   * Ableton Live 9
 
 ## [Download CV here](http://Connor323.github.io/files/CV.pdf)
