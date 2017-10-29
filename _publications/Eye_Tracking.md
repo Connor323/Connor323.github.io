@@ -10,12 +10,12 @@ Python implementation of eye (pupil) tracking based on [Fabian's work](http://ww
 
 ## Usage:
 To run with a single image:  
-```
+```python
 python main 0 PATH_TO_IMAGE
 ```
 
 To run with camera frames:  
-```
+```python
 python main 1
 ```
 

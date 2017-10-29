@@ -12,13 +12,13 @@ Python implementation of vasculature segmentation on retina image based on the [
 This approach is based on [Zhang](http://azadproject.ir/wp-content/uploads/2014/12/2009-Retinal-Vessel-Extraction-by-Matched-Filter-with-First-Order-Derivative-of-Gaussian.pdf)'s work.
 
 ### Usage
-```Python
+```python
 python mfr.py RETINAL_IMAGE MASK_IMAGE
 ```
 Note: the mask image represents the outside area. 
 
 Optional: To obtain a better set of hyper-parameters, I also provide the code of genetic algorithm for parameter optimization. 
-```Python
+```python
 python ga.py RETINAL_IMAGE GROUND_TRUTH_IMAGE
 ```
 
@@ -43,7 +43,7 @@ Final segmentation.
 This approach is based on [Hoover](http://www.uhu.es/retinopathy/General/000301IEEETransMedImag.pdf)'s work. 
 
 ### Usage
-```Python
+```python
 python thprobing.py RESULT_OF_GAUSSIAN_MATCHED_FILTER
 ```
 Note: to implement this algorithm, you need to obtain the Gaussian matched filter result from first algorithm (the second output from mfr.py).
